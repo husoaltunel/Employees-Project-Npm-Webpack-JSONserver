@@ -1,0 +1,10 @@
+{
+  "employees": [
+    {
+      "name": "Hüseyin Altunel",
+      "department": "Web Development",
+      "salary": 5200,
+      "id": 1
+    }
+  ]
+}
